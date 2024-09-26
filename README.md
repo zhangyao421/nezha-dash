@@ -24,6 +24,6 @@
 | NEXT_PUBLIC_DisableCartoon     | 是否禁用卡通人物     | **默认**：false                  |
 
 <br>
-
+ 
 ![screen-shot-one](/.github/shotOne.png)
 ![screen-shot-two](/.github/shotTwo.png)
